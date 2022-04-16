@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.88647f98.css",
-    "main.js": "/static/js/main.9430e8e0.js",
-    "index.html": "/index.html",
-    "main.88647f98.css.map": "/static/css/main.88647f98.css.map",
-    "main.9430e8e0.js.map": "/static/js/main.9430e8e0.js.map"
+    "main.css": "/damonphilipross.github.io/static/css/main.88647f98.css",
+    "main.js": "/damonphilipross.github.io/static/js/main.9430e8e0.js",
+    "index.html": "/damonphilipross.github.io/index.html",
+    "main.88647f98.css.map": "/damonphilipross.github.io/static/css/main.88647f98.css.map",
+    "main.9430e8e0.js.map": "/damonphilipross.github.io/static/js/main.9430e8e0.js.map"
   },
   "entrypoints": [
     "static/css/main.88647f98.css",
